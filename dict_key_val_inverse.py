@@ -1,3 +1,4 @@
+# swapping places of keys and values
 d1 = {1: "value1", 2: "value2"}
 print("Before: ", d1)
 inv_map = {}
